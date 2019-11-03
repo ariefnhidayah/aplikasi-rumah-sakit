@@ -45,7 +45,7 @@ if(!isset($_SESSION['admin'])) {
         <a href="<?= base_url('pasien/') ?>" class="list-group-item list-group-item-action bg-light">Data Pasien</a>
         <a href="<?= base_url('dokter/') ?>" class="list-group-item list-group-item-action bg-light">Data Dokter</a>
         <a href="<?= base_url('poliklinik/') ?>" class="list-group-item list-group-item-action bg-light">Data Poliklinik</a>
-        <a href="<?= base_url('obat/') ?>" class="list-group-item list-group-item-action bg-light">Data Obat</a>
+        <a href="<?= base_url('obat/') ?>" class="list-group-item list-group-item-action bg-light">Data Obat - Obatan</a>
         <a href="<?= base_url('rekam-medis/') ?>" class="list-group-item list-group-item-action bg-light">Rekam Medis</a>
       </div>
     </div>
